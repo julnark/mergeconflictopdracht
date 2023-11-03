@@ -1,7 +1,7 @@
- function greet()
+function newgreet()
 {
     let greeting="Goedeavond";
     console.log(greeting);
 }
 
-module.exports = {greet};
+module.exports = {newgreet};
